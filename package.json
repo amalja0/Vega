@@ -9,6 +9,9 @@
     "nuxt",
     "ffmpeg"
   ],
+  "files": [
+    "src/*"
+  ],
   "main": "dist/index.js",
   "scripts": {
     "postinstall": "electron-builder install-app-deps",
