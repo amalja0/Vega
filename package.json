@@ -10,7 +10,7 @@
     "ffmpeg"
   ],
   "files": [
-    "src/*"
+    "src/components/ProjectModal.vue"
   ],
   "main": "dist/index.js",
   "scripts": {
